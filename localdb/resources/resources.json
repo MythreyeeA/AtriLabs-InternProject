@@ -1,0 +1,76 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Plus Jakarta Sans",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url(\"https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/plus-jakarta-display.min.css\");",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Plus Jakarta Display",
+          "fontWeight": 300,
+          "fontStyle": "normal"
+        },
+        {
+          "fontFamily": "Plus Jakarta Display",
+          "fontWeight": 300,
+          "fontStyle": "italic"
+        },
+        {
+          "fontFamily": "Plus Jakarta Display",
+          "fontWeight": 400,
+          "fontStyle": "normal"
+        },
+        {
+          "fontFamily": "Plus Jakarta Display",
+          "fontWeight": 400,
+          "fontStyle": "italic"
+        },
+        {
+          "fontFamily": "Plus Jakarta Display",
+          "fontWeight": 500,
+          "fontStyle": "normal"
+        },
+        {
+          "fontFamily": "Plus Jakarta Display",
+          "fontWeight": 500,
+          "fontStyle": "italic"
+        },
+        {
+          "fontFamily": "Plus Jakarta Display",
+          "fontWeight": 700,
+          "fontStyle": "normal"
+        },
+        {
+          "fontFamily": "Plus Jakarta Display",
+          "fontWeight": 700,
+          "fontStyle": "italic"
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Plus Jakarta Sans",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        }
+      ]
+    }
+  }
+]
